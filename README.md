@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mohit Yadav
 ====================================================================================================================================
 
-Web Developer | Python | C++| DSA
+Web Developer | JavaScript | C++| DSA
 ---------------------------------
 
 I am a 3rd year B.tech student , learning how to code , passionate about solving problems and building web apps
